@@ -1,6 +1,3 @@
-remote_theme: jeffreytse/devcard
-plugins:
-  - jekyll-remote-theme
-
+theme: jekyll-theme-minimal
 title: Kenneth Craig
-description: "Portfolio of a learning leader, technologist, and project manager."
+description: Portfolio of a learning leader, technologist, and project manager.
