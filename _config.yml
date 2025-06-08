@@ -1,3 +1,6 @@
-remote_theme: kcraig73/DevCard
+remote_theme: muesli/devcard
 plugins:
   - jekyll-remote-theme
+
+title: Kenneth Craig
+description: "Portfolio of a learning leader, technologist, and project manager."
