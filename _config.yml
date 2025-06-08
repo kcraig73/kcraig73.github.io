@@ -1,0 +1,3 @@
+remote_theme: kcraig73/DevCard
+plugins:
+  - jekyll-remote-theme
