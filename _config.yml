@@ -1,4 +1,4 @@
-remote_theme: muesli/devcard
+remote_theme: jeffreytse/devcard
 plugins:
   - jekyll-remote-theme
 
