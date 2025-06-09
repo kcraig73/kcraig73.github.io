@@ -43,11 +43,11 @@ Designed and tested a high-efficiency configuration for Frigate NVR using dual E
 ---
 
 ## 📄 Resume
-[View My Resume (PDF)](https://drive.google.com/YOUR-RESUME-LINK)
+[View My Resume (PDF)](https://drive.google.com/file/d/1cJElFwkGrzWEvZtYayKvVxgot5xD6Ayh/view?usp=share_link)
 
 ---
 
 ## 🔗 Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-[Google Sites Portfolio](https://sites.google.com/YOUR-SITE)  
+[LinkedIn](www.linkedin.com/in/kenneth-craig)  
+[Google Sites Portfolio](https://sites.google.com/view/kennethcraig/home)  
 [GitHub](https://github.com/kcraig73)
