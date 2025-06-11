@@ -1,3 +1,46 @@
-theme: jekyll-theme-minimal
-title: Kenneth Craig
-description: Portfolio of a learning leader, technologist, and project manager.
+title: "Kenneth Craig"
+email: "kcraig73@comcast.net"
+description: >-
+  Project leader and technologist with a passion for automation, IoT, and smart design.
+url: "https://kcraig73.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+author:
+  name: Kenneth Craig
+  avatar: "/assets/img/avatar.jpg"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/kcraig73"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/kenneth-craig"
+    - label: "Resume"
+      url: "https://drive.google.com/file/d/1cJElFwkGrzWEvZtYayKvVxgot5xD6Ayh/view"
+    - label: "Portfolio"
+      url: "https://sites.google.com/view/kennethcraig/home"
+    - label: "Email"
+      url: "mailto:kcraig73@comcast.net"
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+nav:
+  - title: "About Me"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
